@@ -1,4 +1,11 @@
 ## Dot‑Board Build Journal
+---
+Title: "Dot Board"
+Author: "Sarah"
+Description: "Custom keeeb
+created_at: "2025-07-25"
+Total time spent: 22.5
+---
 
 ## July 22 – First Schematic (7.5 hours)
 It was one of those nights when the rain had just stopped, my playlist was stuck on Lo-fi beats, and I was just sitting on my bed, staring at my half dead old keyboard. The thing looked like it had survived a zombie apocalypse. And the typing feel? Ugh, don’t even ask. Every keystroke felt like I was arguing with a soggy biscuit. That’s when something clicked. Not on the keyboard, though. In my brain. I thought, “Why not just make my own keyboard?” Not just assemble parts, but actually design everything—the PCB, the schematic, and the whole look. And thus, the dot‑Board idea was born, right there under my cheap fairy lights.
