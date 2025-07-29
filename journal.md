@@ -75,3 +75,8 @@ Finally, I exported both STL files and dropped them into Cura. At 0.2mm layer he
 <img width="807" height="454" alt="Screenshot 2025-07-29 225951" src="https://github.com/user-attachments/assets/2eed1036-0e29-4b34-811a-7bd5a028f93e" />
 
 
+July 26 – QMK Firmware Setup (1 hour)
+With the design all set and the STL files ready to print, I decided to dive into the firmware part—at least the initial setup—because I wanted to lock in the layout while it was still fresh in my head. I opened up the QMK Configurator and began mapping the layout exactly as I imagined it during design. All the main keys were straightforward, and I kept things clean: a compact typing layout on layer 0, and a secondary layer for arrow keys, volume control, and maybe media playback later on.
+I added a function key to toggle layers, set up MO(1) on the bottom row, and assigned RESET to one of the top-right keys—just in case I needed it during flashing. Even though I hadn't hooked up the board yet, it felt cool seeing the visual layout evolve into something that was truly mine. Once everything looked solid, I downloaded the .hex and .json files and saved them in my firmware folder labeled “dot‑Board_v0”.
+
+
