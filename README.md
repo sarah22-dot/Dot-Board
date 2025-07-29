@@ -1,7 +1,7 @@
 # Dot-Board
 dot‑Board was never meant to be just another mechanical keyboard. It was built for a moment, for a vibe, for a challenge. The entire thing came together during Hack Club’s Highway event, where we were supposed to not just build something, but make it our own. I put my energy into what I love the most—designing the PCB and modelling the case. While others were wiring or coding, I was deep inside Fusion 360 and EasyEDA Pro, trying to make sure every detail felt precise and intentional.
 
-It started off as a late-night sketch in my notes app. I wanted something compact but not boring, logical but still unique. A grid layout made the most sense ortholinear, neat rows and columns, the kind of layout that just looks satisfying when you view it from topdown. I fired up EasyEDA Pro and began building the schematic from scratch. No template, no copy-paste from someone else's build. I dropped the Pro Micro, mapped each row and column with proper matrix logic, and added footprints for diodes and a rotary encoder. The goal was clarity and flow—every trace should feel like it belongs.
+It started off as a late-night sketch in my notes app. I wanted something compact but not boring, logical but still unique. A grid layout made the most sense ortholinear, neat rows and columns, the kind of layout that just looks satisfying when you view it from topdown. I fired up EasyEDA Pro and began building the schematic from scratch. No template, no copy-paste from someone else's build. I dropped the Pro Micro, mapped each row and column with proper matrix logic, and added footprints for diodes and a rotary encoder. The goal was clarity and flow every trace should feel like it belongs.
 
 
 
