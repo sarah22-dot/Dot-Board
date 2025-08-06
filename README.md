@@ -39,6 +39,16 @@ dot‑Board, to me, represents the kind of project that grows in a weekend but s
 Even though I didn’t solder a single switch for this board, I still feel connected to every part of it because I designed it to work, to look sharp, and to invite others to complete it. That’s the spirit of dot‑Board. It starts with a dot, but you never know where it goes.
 
 
+## updated case
+
+<img width="500" height="299" alt="Screenshot 2025-08-06 121027" src="https://github.com/user-attachments/assets/cc47bb53-64e8-46f8-8aa2-0797802c98c6" />
+
+<img width="734" height="321" alt="Screenshot 2025-08-06 121020" src="https://github.com/user-attachments/assets/8fef5271-eaf6-48b7-974d-1ccfec156f74" />
+
+<img width="844" height="402" alt="Screenshot 2025-08-06 121011" src="https://github.com/user-attachments/assets/b9e9c361-6656-4cf2-a863-2adc57477678" />
+
+<img width="832" height="503" alt="Screenshot 2025-08-06 120942" src="https://github.com/user-attachments/assets/615d35ba-ad12-4110-b1ca-4533ffbf2895" />
+
 ## BOM
 | Component                          | Source & Link       | Qty   | Total Cost (INR) | Total Cost (USD) |
 | ---------------------------------- | ------------------- | ----- | ---------------- | ---------------- |
