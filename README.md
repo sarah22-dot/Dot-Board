@@ -49,6 +49,10 @@ Even though I didn’t solder a single switch for this board, I still feel conne
 
 <img width="832" height="503" alt="Screenshot 2025-08-06 120942" src="https://github.com/user-attachments/assets/615d35ba-ad12-4110-b1ca-4533ffbf2895" />
 
+## added logo on top
+<img width="826" height="563" alt="image" src="https://github.com/user-attachments/assets/3bb74a7e-5cd5-4746-81b6-7205cfa4dc4f" />
+
+
 ## BOM
 | Component                          | Source & Link       | Qty   | Total Cost (INR) | Total Cost (USD) |
 | ---------------------------------- | ------------------- | ----- | ---------------- | ---------------- |
